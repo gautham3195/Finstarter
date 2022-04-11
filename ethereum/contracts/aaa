@@ -1,0 +1,13 @@
+contract Campaign{
+    address manager;
+    .
+    .
+    .
+
+    function sum(int a, int b){
+        int answer = a+b;
+    }
+
+    sum(2,3);
+   
+}
